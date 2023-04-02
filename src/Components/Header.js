@@ -6,7 +6,7 @@ import Search from "./Search";
 const Header = () => {
   return (
     <>
-      <div className="header">
+      <div className="header container-fluid">
         <div className="row">
            <div className="col-6"> <h2 className="title">PETS SHOP</h2>
             </div> 
