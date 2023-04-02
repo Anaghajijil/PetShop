@@ -1,0 +1,22 @@
+.menu{
+    border-right: 1px black solid;
+    height: calc(100vh - 50px);
+    background-color: #dfd9e2;
+ 
+}
+.menu-list{
+    list-style: none;
+    padding: 0;
+
+}
+.menu-list li{
+    border-bottom: solid 1px grey;
+   padding-left: 4px;
+   height: 35px;
+}
+.menu-label{
+    padding-top: 8px;
+    padding-left: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
