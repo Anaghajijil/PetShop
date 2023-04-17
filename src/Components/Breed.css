@@ -1,0 +1,10 @@
+.breeds{
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-top: 16px;
+    font-size: 20px;
+}
+.breedlist{
+    overflow: auto;
+    height: calc(100vh - 100px);
+}
